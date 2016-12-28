@@ -1,0 +1,15 @@
+{
+  "name": "robert-apache",
+  "version": "0.1.0",
+  "author": "Robert Freiberger",
+  "summary": "Base Apache Install",
+  "license": "BSD",
+  "source": "https://github.com/rfreiberger/SWorks",
+  "project_page": "https://github.com/rfreiberger/SWorks",
+  "issues_url": "https://github.com/rfreiberger/SWorks/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
